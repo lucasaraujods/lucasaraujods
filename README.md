@@ -1,4 +1,7 @@
 <h2 align="left">Sobre mim</h2>
+<p>
+  Meu nome é Lucas Araújo, tenho 21 anos e estou em uma jornada contínua de aprendizado na área de tecnologia. Estou desenvolvendo projetos que integram meus conhecimentos em front-end e back-end, com o objetivo de me tornar um desenvolvedor fullstack. Além disso, gosto de compartilhar meus progressos por meio de projetos e exercícios de lógica de programação, sempre buscando aplicar e demonstrar novos conhecimentos. 
+</p> 
 
 ###
 
