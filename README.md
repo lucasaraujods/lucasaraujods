@@ -9,7 +9,7 @@
 
 ###
 
-<h2 align="left">Starts</h2>
+<h2 align="left">Habilidades</h2>
 
 ###
 
