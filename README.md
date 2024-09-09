@@ -50,6 +50,3 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/lucasaraujods/lucasaraujods/output/snake.svg" alt="Snake animation" />
-
-###
